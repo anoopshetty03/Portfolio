@@ -4,7 +4,7 @@ import resume from '../assets/resume.pdf';
 
 const Home = () => {
   return (
-    <div name='home' className='w-full min-h-screen bg-[#0a192f] flex items-center justify-center px-4'>
+    <div name='home' className='w-full min-h-screen flex items-center justify-center px-4'>
       {/* Container */}
       <div className='max-w-[1000px] mx-auto flex flex-col lg:flex-row items-center'>
         {/* Text Content */}
